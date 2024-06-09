@@ -1,0 +1,7 @@
+C:\Users\vasiliska\OneDrive\Рабочий стол\питон шк\игра аоп 1\игра аоп 1\bin\Debug\игра аоп 1.exe.config
+C:\Users\vasiliska\OneDrive\Рабочий стол\питон шк\игра аоп 1\игра аоп 1\bin\Debug\игра аоп 1.exe
+C:\Users\vasiliska\OneDrive\Рабочий стол\питон шк\игра аоп 1\игра аоп 1\bin\Debug\игра аоп 1.pdb
+C:\Users\vasiliska\OneDrive\Рабочий стол\питон шк\игра аоп 1\игра аоп 1\obj\Debug\игра аоп 1.csproj.AssemblyReference.cache
+C:\Users\vasiliska\OneDrive\Рабочий стол\питон шк\игра аоп 1\игра аоп 1\obj\Debug\игра аоп 1.csproj.CoreCompileInputs.cache
+C:\Users\vasiliska\OneDrive\Рабочий стол\питон шк\игра аоп 1\игра аоп 1\obj\Debug\игра аоп 1.exe
+C:\Users\vasiliska\OneDrive\Рабочий стол\питон шк\игра аоп 1\игра аоп 1\obj\Debug\игра аоп 1.pdb
